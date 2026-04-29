@@ -1,0 +1,4 @@
+platform,mean,median,std,count
+chatgpt,10.378,4.0,28.424,94086
+claude,9.181,4.0,17.192,911
+grok,7.521,2.0,17.414,13149
