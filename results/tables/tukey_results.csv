@@ -1,4 +1,0 @@
-group1,group2,meandiff,p-adj,lower,upper,reject
-chatgpt,claude,-1.1964,0.3845,-3.3222,0.9294,False
-chatgpt,grok,-2.8569,0.0,-3.4514,-2.2624,True
-claude,grok,-1.6605,0.1766,-3.8482,0.5271,False

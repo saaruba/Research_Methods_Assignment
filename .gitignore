@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data (VERY IMPORTANT)
+data/raw/
+data/processed/
+
+# Results (optional)
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
