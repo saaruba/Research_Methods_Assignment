@@ -1,5 +1,4 @@
-# src/load_data.py
-"""Load full ShareChat data from Hugging Face and save raw CSV files locally."""
+"""Here we actually Load the full ShareChat data from Hugging Face and save raw CSV files locally."""
 
 from __future__ import annotations
 

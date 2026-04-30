@@ -1,4 +1,3 @@
-# main.py
 """Main entry point for the ShareChat research data pipeline."""
 
 from __future__ import annotations
